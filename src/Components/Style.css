@@ -1,0 +1,13 @@
+table{
+    border-radius: 10px !important;
+}
+table input{
+    border-radius: 10px !important;
+    margin: 10px !important;
+}
+table tbody{
+    padding: 30px !important;
+}
+div{
+    padding: 20px;
+}
